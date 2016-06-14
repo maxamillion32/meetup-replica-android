@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_more"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="@string/more">
+        <item
+            android:id="@+id/action_refresh"
+            android:title="@string/refresh">
+        </item>
+    </item>
+
+</menu><!-- From: file:/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/menu/menu_eshop_guest.xml -->

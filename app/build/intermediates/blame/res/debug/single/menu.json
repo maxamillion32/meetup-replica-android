@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/menu/menu_eshop_guest.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/menu/menu_eshop_guest.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/menu/menu_eshop.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/menu/menu_eshop.xml"
+    }
+]

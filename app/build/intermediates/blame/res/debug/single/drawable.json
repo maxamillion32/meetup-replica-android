@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/drawable/ic_launcher.png"
+    }
+]

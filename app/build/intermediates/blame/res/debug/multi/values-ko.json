@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/values-ko/values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 102,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 102,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 104,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 104,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 91,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endColumn": 91,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 62,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 461,
+                        "endColumn": 62,
+                        "endOffset": 519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 66,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 66,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 59,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endColumn": 59,
+                        "endOffset": 646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 67,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 67,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endColumn": 68,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 68,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 84,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 84,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 70,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 70,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 70,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 70,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 77,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 77,
+                        "endOffset": 1088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 94,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1093,
+                        "endColumn": 94,
+                        "endOffset": 1183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 61,
+                    "endOffset": 1139
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 61,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1144,
+                    "endColumn": 63,
+                    "endOffset": 1203
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1250,
+                        "endColumn": 63,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1208,
+                    "endColumn": 99,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1314,
+                        "endColumn": 99,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endColumn": 58,
+                    "endOffset": 1362
+                },
+                "from": {
+                    "file": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1537,
+                        "endColumn": 58,
+                        "endOffset": 1591
+                    }
+                }
+            }
+        ]
+    }
+]

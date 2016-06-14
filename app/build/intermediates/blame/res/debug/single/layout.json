@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_post.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_post.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_community.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_community.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_friend.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_friend.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_post.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_post.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_requests.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_requests.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_all_events.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_all_events.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_create_event.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_create_event.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_event_not_going.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_event_not_going.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_members.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_members.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_not_going.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_not_going.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_event.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_event.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_event_going.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_event_going.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_create_community.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_create_community.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_event.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_event.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_going.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_going.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_friend.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_friend.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_user_communities.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_user_communities.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_member.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_member.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_user_events.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_user_events.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_feed.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_feed.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_request.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_request.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_community.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_community.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_community_events.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_community_events.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_user_event.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_user_event.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_limited.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_limited.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_product.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_product.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_friends.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_friends.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_comment.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_comment.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_user_community.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_user_community.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_products.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_products.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/activity_all_communities.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/activity_all_communities.xml"
+    },
+    {
+        "merged": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/build/intermediates/res/merged/debug/layout/view_community_event.xml",
+        "source": "/Users/mohamedabdel-azeem/AndroidStudioProjects/mobile/app/src/main/res/layout/view_community_event.xml"
+    }
+]

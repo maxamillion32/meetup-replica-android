@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eg.edu.guc.android.meetup"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id" />
+        <activity
+            android:name=".activity.FeedActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="adjustResize|stateVisible" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name=".activity.AllCommunitiesActivity"
+            android:label="@string/title_activity_all_communities" />
+        <activity
+            android:name=".activity.AllEventsActivity"
+            android:label="@string/title_activity_all_events" />
+        <activity
+            android:name=".activity.CommunityActivity"
+            android:label="@string/title_activity_community" />
+        <activity
+            android:name=".activity.EventActivity"
+            android:label="@string/title_activity_event" />
+        <activity
+            android:name=".activity.ProfileActivity"
+            android:label="@string/title_activity_profile" />
+        <activity
+            android:name=".activity.FriendActivity"
+            android:label="@string/title_activity_friend" />
+        <activity
+            android:name=".activity.LimitedActivity"
+            android:label="@string/title_activity_limited" />
+        <activity
+            android:name=".activity.MembersActivity"
+            android:label="@string/title_activity_members" />
+        <activity
+            android:name=".activity.RequestsActivity"
+            android:label="@string/title_activity_requests" />
+        <activity
+            android:name=".activity.PostActivity"
+            android:label="@string/title_activity_post" />
+        <activity
+            android:name=".activity.CommunityEventsActivity"
+            android:label="@string/title_activity_community_events" />
+        <activity
+            android:name=".activity.GoingActivity"
+            android:label="@string/title_activity_going" />
+        <activity
+            android:name=".activity.NotGoingActivity"
+            android:label="@string/title_activity_not_going" />
+        <activity
+            android:name=".activity.FriendsActivity"
+            android:label="@string/title_activity_friends" />
+        <activity
+            android:name=".activity.UserCommunitiesActivity"
+            android:label="@string/title_activity_user_communities" />
+        <activity
+            android:name=".activity.UserEventsActivity"
+            android:label="@string/title_activity_user_events" />
+        <activity
+            android:name=".activity.CreateCommunityActivity"
+            android:label="@string/title_activity_create_community" />
+        <activity
+            android:name=".activity.CreateEventActivity"
+            android:label="@string/title_activity_create_event"></activity>
+    </application>
+
+</manifest>

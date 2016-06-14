@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meetup</string>
+    <string name="buy">Buy</string>
+    <string name="refresh">Refresh</string>
+    <string name="more">More</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_products">Products</string>
+    <string name="title_activity_feed">FeedActivity</string>
+    <string name="facebook_app_id">193845660956059</string>
+    <string name="title_activity_all_communities">Communities</string>
+    <string name="show">Show</string>
+    <string name="title_activity_all_events">Events</string>
+    <string name="btn_communities">Communities</string>
+    <string name="btn_events">Events</string>
+    <string name="title_activity_community">Community</string>
+    <string name="title_activity_event">Event</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="btn_profile">Profile</string>
+    <string name="title_activity_friend">Friend Profile</string>
+    <string name="title_activity_limited">Limited Profile</string>
+    <string name="title_activity_members">Members</string>
+    <string name="btn_members">Members</string>
+    <string name="title_activity_requests">Requests</string>
+    <string name="btn_requests">Requests</string>
+    <string name="title_activity_post">Post</string>
+    <string name="btnPost">Comment</string>
+    <string name="title_activity_community_events">Events</string>
+    <string name="btn_community_events">Events</string>
+    <string name="title_activity_going">Going</string>
+    <string name="btn_view_going">View Going</string>
+    <string name="title_activity_not_going">NotGoing</string>
+    <string name="btn_view_not_going">View Not Going</string>
+    <string name="title_activity_friends">Friends</string>
+    <string name="btn_friends">Friends</string>
+    <string name="btn_friend_friends">Friends</string>
+    <string name="title_activity_user_communities">Communities</string>
+    <string name="title_activity_user_events">Events</string>
+    <string name="title_activity_create_community">Create Community</string>
+    <string name="title_activity_create_event">Create Event</string>
+
+</resources>
